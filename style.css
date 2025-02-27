@@ -1,0 +1,35 @@
+#red {
+    color: red;
+}
+
+#blue {
+    color: blue;
+}
+
+#orange {
+    color: orange;
+}
+
+#green {
+    color: green;
+}
+
+#yellow {
+    color: yellow;
+}
+
+.color-title {
+    font-weight: normal;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+.audio-container {
+    display: flex;
+    align-items: center; /* Align audio and image vertically */
+    gap: 10px; /* Adds spacing between image and audio */
+    justify-content: start; /* Aligns elements to the left */
+}
